@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": ";AAAA,aAAa;AAGb,qBAAqB;AAGrB,uBAAuB;AAGvB,6BAA6B;AAC7B,AAAA,WAAW,CAAC;EACV,QAAQ,EAAE,MAAM;CACjB;;AACD,mBAAmB;AACnB,AAAA,YAAY,CAAC;EACX,OAAO,EAAE,IAAI;CACd;;AACD,WAAW;AAGX,mCAAmC;AAGnC,oBAAoB;AAGpB,qBAAqB;AAGrB,yBAAyB;AAGzB,aAAa;AAGb,mBAAmB;AAGnB,oBAAoB;AAGpB,yBAAyB;AAGzB,oBAAoB;AAKpB,oBAAoB;AAGpB,mBAAmB",
+    "sources": [
+        "slick-slider.scss"
+    ],
+    "names": [],
+    "file": "slick-slider.css"
+}
